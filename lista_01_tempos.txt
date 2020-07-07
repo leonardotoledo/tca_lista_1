@@ -1,0 +1,109 @@
+-----------------------------
+Number of elements: 100.
+-----------------------------
+
+Random array.
+Quick sort. CPU Time: 0.00003800 s.
+Merge sort. CPU Time: 0.00005600 s.
+Selection sort. CPU Time: 0.00006800 s.
+Insertion sort. CPU Time: 0.00004800 s.
+
+Descending array.
+Quick sort. CPU Time: 0.00006200 s.
+Merge sort. CPU Time: 0.00002300 s.
+Selection sort. CPU Time: 0.00005800 s.
+Insertion sort. CPU Time: 0.00008300 s.
+
+Ascending array.
+Quick sort. CPU Time: 0.00005300 s.
+Merge sort. CPU Time: 0.00002900 s.
+Selection sort. CPU Time: 0.00005200 s.
+Insertion sort. CPU Time: 0.00000400 s.
+
+-----------------------------
+Number of elements: 1000.
+-----------------------------
+
+Random array.
+Quick sort. CPU Time: 0.00040800 s.
+Merge sort. CPU Time: 0.00056700 s.
+Selection sort. CPU Time: 0.00329200 s.
+Insertion sort. CPU Time: 0.00141300 s.
+
+Descending array.
+Quick sort. CPU Time: 0.00157900 s.
+Merge sort. CPU Time: 0.00012300 s.
+Selection sort. CPU Time: 0.00169800 s.
+Insertion sort. CPU Time: 0.00254200 s.
+
+Ascending array.
+Quick sort. CPU Time: 0.00134000 s.
+Merge sort. CPU Time: 0.00009200 s.
+Selection sort. CPU Time: 0.00159700 s.
+Insertion sort. CPU Time: 0.00000500 s.
+
+-----------------------------
+Number of elements: 10000.
+-----------------------------
+
+Random array.
+Quick sort. CPU Time: 0.00327900 s.
+Merge sort. CPU Time: 0.00272800 s.
+Selection sort. CPU Time: 0.13873400 s.
+Insertion sort. CPU Time: 0.09626100 s.
+
+Descending array.
+Quick sort. CPU Time: 0.09994800 s.
+Merge sort. CPU Time: 0.00078700 s.
+Selection sort. CPU Time: 0.11228700 s.
+Insertion sort. CPU Time: 0.18086500 s.
+
+Ascending array.
+Quick sort. CPU Time: 0.09315900 s.
+Merge sort. CPU Time: 0.00079900 s.
+Selection sort. CPU Time: 0.11726400 s.
+Insertion sort. CPU Time: 0.00003000 s.
+
+-----------------------------
+Number of elements: 100000.
+-----------------------------
+
+Random array.
+Quick sort. CPU Time: 0.04147000 s.
+Merge sort. CPU Time: 0.02730000 s.
+Selection sort. CPU Time: 11.46611800 s.
+Insertion sort. CPU Time: 8.93958100 s.
+
+Descending array.
+Quick sort. CPU Time: 9.25532900 s.
+Merge sort. CPU Time: 0.01000800 s.
+Selection sort. CPU Time: 12.28417400 s.
+Insertion sort. CPU Time: 20.55850100 s.
+
+Ascending array.
+Quick sort. CPU Time: 10.14342600 s.
+Merge sort. CPU Time: 0.01056400 s.
+Selection sort. CPU Time: 13.42826900 s.
+Insertion sort. CPU Time: 0.00033900 s.
+
+-----------------------------
+Number of elements: 1000000.
+-----------------------------
+
+Random array.
+Quick sort. CPU Time: 0.17612000 s.
+Merge sort. CPU Time: 0.23369600 s.
+Selection sort. CPU Time: 1374.73310500 s.
+Insertion sort. CPU Time: 1041.09014500 s.
+
+Descending array.
+Quick sort. CPU Time: Max. number of recursive calls.
+Merge sort. CPU Time: 0.14248600 s.
+Selection sort. CPU Time: 1230.24810100 s.
+Insertion sort. CPU Time: 2412.57323900 s.
+
+Ascending array.
+Quick sort. CPU Time: Max. number of recursive calls.
+Merge sort. CPU Time: 0.13483400 s.
+Selection sort. CPU Time: 1181.83361400 s.
+Insertion sort. CPU Time: 0.00378400 s.
